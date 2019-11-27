@@ -1,6 +1,6 @@
 /**
 * Toy Linux C implementation of Philosophers problem
-* Author: Xzz
+* Author: lemonTree96
 * Date: 2019-11-26
 **/
 #include <unistd.h>
